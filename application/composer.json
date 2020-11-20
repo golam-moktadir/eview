@@ -1,0 +1,12 @@
+{
+    "name": "saddam/application",
+    "authors": [
+        {
+            "name": "Shipan Mazumder",
+            "email": "shipanmazumder@gmail.com"
+        }
+    ],
+    "require": {
+        "dompdf/dompdf": "^0.8.3"
+    }
+}

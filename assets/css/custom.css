@@ -1,0 +1,13 @@
+.dropdown-submenu {
+    position: relative;
+}
+.dropdown-submenu .dropdown-menu {
+    top: 0;
+    left: 100px;
+    width: auto;
+}
+.dropdown-submenu .extra_right {
+    top: 0;
+    left: -180px;
+    width: auto;
+}
